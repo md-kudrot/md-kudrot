@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Banner](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=400&fit=crop)
+  ![Banner](https://github.com/user-attachments/assets/39ff9167-dabc-4103-b79b-f194e04d911a)
   
   **Building Fast, Responsive Web Apps | MERN Stack Developer | React.js Enthusiast**
   
