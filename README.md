@@ -88,7 +88,7 @@ I believe in **learning by doing**—every project is an opportunity to solve re
 ### 🛠️ DigiTools Platform — Digital Tools Suite
 **Collection of Useful Web Tools for Daily Tasks**
 
-[![DigiTools](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github)](https://github.com/md-kudrot/DigiTools-Platform)
+[![DigiTools](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github)](https://github.com/md-kudrot/Assignment-06/tree/main/DigiTools-Platform)
 [![Live_Demo](https://img.shields.io/badge/Live_Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://digitools-platform.vercel.app)
 
 **Tech Stack:** React | JavaScript | Tailwind CSS | DaisyUI
