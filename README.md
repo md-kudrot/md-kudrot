@@ -22,7 +22,7 @@ I'm a **passionate Frontend Developer** from Dinajpur committed to building **be
 
 I believe in **learning by doing**—every project is an opportunity to solve real-world problems and improve my craft. I'm comfortable with modern tools like **Next.js, Tailwind CSS, and API integration**, and I'm actively exploring backend technologies to become a complete Full Stack Engineer.
 
-📧 **Email**: kk.mdkudrot@gmail.com@gmail.com
+📧 **Email**: kk.mdkudrot@gmail.com
 
 ---
 
