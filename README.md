@@ -6,7 +6,7 @@
   
   **Building Fast, Responsive Web Apps | MERN Stack Developer | React.js Enthusiast**
   
-  Based in **Dinajpur, Bangladesh** 🌍 | Always Learning, Always Building 🚀
+  Based in **Dinajpur, Bangladesh** 🌍 | Always Learning, Always Building 🚀 | 📧 kk.mdkudrot@gmail.com
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-md--kudrot-blue?style=for-the-badge&logo=vercel)](https://md-kudrot-s-portfolio.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/md-kamrujjaman-al-kudrot-60b924363)
