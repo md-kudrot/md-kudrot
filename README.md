@@ -1,4 +1,4 @@
-# 👋hi... I'm MD Kamrujjaman | Frontend Developer
+# 👋hi... I'm MD Kamrujjaman | MERN Stack Developer
 
 <div align="center">
   
