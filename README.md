@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **passionate Frontend Developer** from Dinajpur committed to building **beautiful, scalable, and user-centric web applications**. My journey started with mastering modern JavaScript and DOM manipulation, and now I'm expanding into **Full Stack Development** with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
+I'm a **passionate MERN Stack Developer** from Dinajpur committed to building **beautiful, scalable, and user-centric web applications**. My journey started with mastering modern JavaScript and DOM manipulation, and now I'm expanding into **Full Stack Development** with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
 
 I believe in **learning by doing**—every project is an opportunity to solve real-world problems and improve my craft. I'm comfortable with modern tools like **Next.js, Tailwind CSS, and API integration**, and I'm actively exploring backend technologies to become a complete Full Stack Engineer.
 
