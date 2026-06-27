@@ -72,7 +72,7 @@ I believe in **learning by doing**—every project is an opportunity to solve re
 [![Rentify Server](https://img.shields.io/badge/Server_Repo-000000?style=for-the-badge&logo=github)](https://github.com/md-kudrot/rentify-server)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://rentify-beige-rho.vercel.app)
 
-**Tech Stack:** Next.js 16 | React 19 | Tailwind CSS v4 | HeroUI | Framer Motion | Recharts | MongoDB
+**Tech Stack:** Next.js 16 | Express.js | MongoDB | Tailwind CSS v4 | HeroUI | Framer Motion | Recharts 
 
 ---
 
@@ -82,7 +82,7 @@ I believe in **learning by doing**—every project is an opportunity to solve re
 [![SunCart](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github)](https://github.com/md-kudrot/SunCart)
 [![Live_Demo](https://img.shields.io/badge/Live_Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://sun-cart-tau.vercel.app)
 
-**Tech Stack:** Next.js 16 | React 19 | Tailwind CSS | BetterAuth | MongoDB
+**Tech Stack:** Next.js 16 | Tailwind CSS | BetterAuth | MongoDB
 
 ---
 
@@ -92,7 +92,7 @@ I believe in **learning by doing**—every project is an opportunity to solve re
 [![KeenKeeper](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github)](https://github.com/md-kudrot/Assignment-07)
 [![Live_Demo](https://img.shields.io/badge/Live_Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://keen-keeper-seven.vercel.app)
 
-**Tech Stack:** Next.js 16 | React 19 | Tailwind CSS | Recharts | DaisyUI
+**Tech Stack:** Next.js 16 | Tailwind CSS | Recharts | DaisyUI
 
 ---
 
