@@ -65,6 +65,13 @@ I believe in **learning by doing**—every project is an opportunity to solve re
 
 <div align="center">
 
+### 🏠 Rentify — Luxury Real Estate Platform
+**Role-Based Property Management Dashboard for Owners, Tenants & Admins**
+
+[![Rentify Client](https://img.shields.io/badge/Client_Repo-000000?style=for-the-badge&logo=github)](https://github.com/md-kudrot/rentify-client)
+[![Rentify Server](https://img.shields.io/badge/Server_Repo-000000?style=for-the-badge&logo=github)](https://github.com/md-kudrot/rentify-server)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://rentify-beige-rho.vercel.app)
+
 ### 🛒 SunCart — E-Commerce Platform
 **Modern Summer Essentials Store with Authentication**
 
