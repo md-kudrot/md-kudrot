@@ -85,21 +85,12 @@ I believe in **learning by doing**—every project is an opportunity to solve re
 
 ---
 
-### 🛒 SunCart — E-Commerce Platform
-**Modern Summer Essentials Store with Authentication**
-
-[![SunCart](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github)](https://github.com/md-kudrot/SunCart)
-[![Live_Demo](https://img.shields.io/badge/Live_Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://sun-cart-tau.vercel.app)
-
-**Tech Stack:** Next.js 16 | Tailwind CSS | BetterAuth | MongoDB
-
----
 
 ### 🤝 KeenKeeper — Relationship Tracker
 **Dashboard to Manage Friends & Track Interactions**
 
 [![KeenKeeper](https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github)](https://github.com/md-kudrot/Assignment-07)
-[![Live_Demo](https://img.shields.io/badge/Live_Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://keen-keeper-seven.vercel.app)
+[![Live_Demo](https://img.shields.io/badge/Live_Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://keen-keeper-cyan.vercel.app)
 
 **Tech Stack:** Next.js 16 | Tailwind CSS | Recharts | DaisyUI
 
