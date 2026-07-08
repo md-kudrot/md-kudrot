@@ -4,7 +4,7 @@
   
   ![Banner](https://github.com/user-attachments/assets/39ff9167-dabc-4103-b79b-f194e04d911a)
   
-  **Building Fast, Responsive Web Apps | MERN Stack Developer | React.js Enthusiast**
+  ***MERN Stack Developer***
   
   Based in **Dinajpur, Bangladesh** 🌍 | Always Learning, Always Building 🚀 | 📧 kk.mdkudrot@gmail.com
   
