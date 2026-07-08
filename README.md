@@ -74,6 +74,16 @@ I believe in **learning by doing**—every project is an opportunity to solve re
 **Tech Stack:** Next.js 16 | Express.js | MongoDB | Tailwind CSS v4 | HeroUI | Framer Motion | Recharts 
 
 ---
+### 💡 IdeaVault — Idea Sharing & Management Platform
+**Discover, Create, and Organize Ideas with Community Engagement**
+
+[![IdeaVault Client](https://img.shields.io/badge/Client_Repo-000000?style=for-the-badge&logo=github)](https://github.com/md-kudrot/ideavault-client)
+[![IdeaVault Server](https://img.shields.io/badge/Server_Repo-000000?style=for-the-badge&logo=github)](https://github.com/md-kudrot/ideavault-server)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://your-ideavault-link.vercel.app)
+
+**Tech Stack:** Next.js | Express.js | MongoDB | BetterAuth | JWT | Tailwind CSS
+
+---
 
 ### 🛒 SunCart — E-Commerce Platform
 **Modern Summer Essentials Store with Authentication**
